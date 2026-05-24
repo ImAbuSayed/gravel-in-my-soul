@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Gravel in My Soul
+
+This log tracks the cryptographic history and versioning for the song **Gravel in My Soul** (gravel-in-my-soul).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T02:11:12.617618 | `v1` | `680072249759aa76e2a8f365866095a612b74579a26565c717f2bab47444cdae` | `f945c55d7e75f00fcc0ee6b66dc85ca12a3ffb19fcd96184a80580648850abeb` | `2026-05-25_gravel-in-my-soul-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
