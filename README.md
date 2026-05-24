@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gravel-in-my-soul/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Gravel in My Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gravel-in-my-soul/) |
+| **Get License** | [Get a Licensing Quote for Gravel in My Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gravel-in-my-soul/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit aa4d4a0b2db3ff216a61178b3c1aed9e468c779c
+> I got this gravel in my soul, and it's calling for you
+> Tracing the lines of a midnight avenue
+> Your memory is a fire I can't put out
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
